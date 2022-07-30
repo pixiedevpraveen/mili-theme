@@ -60,7 +60,7 @@
 		"statusBar.foreground": "#bcb28d",
 		"statusBar.debuggingBackground": "#302e2e",
 		"statusBar.debuggingForeground": "#909090",
-		"statusBar.noFolderBackground": "#909090",
+		"statusBar.noFolderBackground": "#2e2e2e",
 		"statusBar.noFolderForeground": "#bcb28d",
 		// tab
 		"tab.activeBackground": "#1b1b1b",
