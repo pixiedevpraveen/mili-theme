@@ -1,0 +1,60 @@
+{
+    "name": "mili-theme",
+    "displayName": "Mili Theme",
+    "publisher": "pixiedev",
+    "description": "Mili is a minimal, dark and focus friendly theme",
+    "author": {
+        "name": "Praveen Yadav",
+        "url": "https://github.com/pixiedevpraveen/",
+        "email": "praveenyadav7787@gmail.com"
+    },
+    "license": "SEE LICENSE IN LICENSE",
+    "homepage": "https://github.com/pixiedevpraveen/mili-theme/blob/main/README.md",
+    "preview": true,
+    "version": "0.0.1",
+    "galleryBanner": {
+        "color": "#2C2424",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pixiedevpraveen/mili-theme/"
+    },
+    "bugs": {
+        "url": "https://github.com/pixiedevpraveen/mili-theme/issues",
+        "email": "praveenyadav7787@gmail.com"
+    },
+    "keywords": [
+        "mili",
+        "mili theme",
+        "mili theme pixiedev",
+        "color-theme",
+        "theme",
+        "dark theme",
+        "dark",
+        "best theme",
+        "pixiedev",
+        "dark"
+    ],
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mili Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mili Theme-color-theme.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "id": "pixiedev.mili-theme",
+        "publisherDisplayName": "pixiedev",
+        "publisherId": "442d38ef-e5cd-6fe0-a0e5-f81cf2a12e6b"
+    }
+}
