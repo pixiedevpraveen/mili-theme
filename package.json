@@ -2,23 +2,23 @@
     "name": "mili-theme",
     "displayName": "Mili Theme",
     "publisher": "pixiedev",
-    "description": "Mili is a minimal, dark and focus friendly theme",
+    "description": "Mili is a sleek, dark theme that's designed to help you focus on your code and boost your productivity.",
     "author": {
         "name": "Praveen Yadav",
         "url": "https://github.com/pixiedevpraveen/",
         "email": "praveenyadav7787@gmail.com"
     },
     "license": "SEE LICENSE IN LICENSE",
-    "homepage": "https://github.com/pixiedevpraveen/mili-theme/blob/main/README.md",
-    "preview": true,
-    "version": "0.0.2",
+    "homepage": "https://github.com/pixiedevpraveen/mili-theme",
+    "preview": false,
+    "version": "1.0.0",
     "galleryBanner": {
         "color": "#2C2424",
         "theme": "dark"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/pixiedevpraveen/mili-theme/"
+        "url": "https://github.com/pixiedevpraveen/mili-theme"
     },
     "bugs": {
         "url": "https://github.com/pixiedevpraveen/mili-theme/issues",
@@ -28,13 +28,26 @@
         "mili",
         "mili theme",
         "mili theme pixiedev",
-        "color-theme",
-        "theme",
         "dark theme",
-        "dark",
-        "best theme",
-        "pixiedev",
-        "dark"
+        "minimalist design",
+        "custom syntax highlighting",
+        "productivity",
+        "visual studio code",
+        "vscode",
+        "extension",
+        "theme",
+        "color theme",
+        "coding environment",
+        "syntax highlighting",
+        "clean design",
+        "Praveen Yadav",
+        "distraction-free",
+        "modern theme",
+        "bold colors",
+        "vibrant colors",
+        "sleek design",
+        "github",
+        "open source"
     ],
     "icon": "icon.png",
     "engines": {
